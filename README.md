@@ -30,6 +30,3 @@ I am currently pursuing my undergraduate degree in Software Engineering while ac
 <a href="https://twitter.com/cagataykalkann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cagataykalkann" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/çağatay-kalkan-78a530224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çağatay-kalkan-78a530224/" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cagataykalkan&show_icons=true&locale=en&layout=compact" alt="cagataykalkan" /></p>
-
